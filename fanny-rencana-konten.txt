@@ -3,7 +3,9 @@ rencana konten fanny
 - membuat vidio mengenai javascript
  1. ES6
  2. FRAMEWORK JAVASCRIPT
-- struktur data dasar
+ *anggular
+ *react
 -php frame work
+*laravel
 - vlogs
 - interview
