@@ -4,6 +4,7 @@ rencana konten fanny
  1. ES6
  2. FRAMEWORK JAVASCRIPT
  *vue
+ *react
 - struktur data dasar
 -php frame work
 *laravel
